@@ -1,0 +1,13 @@
+{
+  "core": [
+    {
+      "md5": [
+        "09de5e8d6e1317e5eb7838ed70962347"
+      ],
+      "build": "1",
+      "changes": [
+        "Init Core"
+      ]
+    },
+  ]
+}
